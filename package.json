@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openweather-apis": "^4.4.2",
+    "request": "^2.88.2"
+  }
+}
